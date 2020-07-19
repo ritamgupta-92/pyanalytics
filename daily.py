@@ -61,7 +61,7 @@ type(str1)
 print(str1)
 str2="Yash"
 str2.lower()
-dict?
+dict
 dir(str)
 #%% - Sequence
 #sequence - tuple and list are used
@@ -126,7 +126,7 @@ np
 np.mean(np.arange(1,10000000))
 np1
 type(np1)
-np?
+?np
 #help on numpy 
 dir(np)  #functions available in numpy
 np.mean?  # help on mean function of numpy
