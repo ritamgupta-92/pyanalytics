@@ -71,7 +71,7 @@ for i in list1:
     print(i)
   
 for i in list1:    print(i)
-for i in list1:    print('Dhiraj ', i + 6)
+#for i in list1:    print('Dhiraj ', i + 6)
 
 tuple1
 list5 = ['a',1]
@@ -144,6 +144,7 @@ np3.shape
 import pandas as pd
 #https://pandas.pydata.org/pandas-docs/stable/
 pd?
+
 dir(pd)
 df1 = pd.DataFrame({'rollno':[1,2,3,4], 'name': [ "Dhiraj", "Kounal", "Akhil", "Pooja" ], 'marks':[ 40, 50, 60.5, 70 ], 'gender':['M', 'M','M', 'F']})
 df1
