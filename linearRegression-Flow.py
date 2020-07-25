@@ -14,6 +14,8 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 
+
+
 #S2 - data
 x = np.array([5,15,25,35,45,55]).reshape((-1,1))  #making 2 dim
 x  #IV
